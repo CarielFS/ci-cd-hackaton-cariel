@@ -24,6 +24,7 @@ The steps followed to achive this were:
 6) Whenever you make a push, the action will trigger and the repository will be uploaded to the bucket
 <img width="433" height="470" alt="image" src="https://github.com/user-attachments/assets/bde449e1-e95e-44c3-a22f-5b7d5102853b" />
 
+<img width="1182" height="249" alt="image" src="https://github.com/user-attachments/assets/3ed58c5d-2ed9-4907-b841-15af1148cb92" />
 
 
 
