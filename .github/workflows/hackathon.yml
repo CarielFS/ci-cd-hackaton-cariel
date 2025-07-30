@@ -27,5 +27,5 @@ jobs:
         
       - name: sync-files
         run: |
-          aws s3 sync . http://hackathon-bucket-cariel-7-30-2025.s3-website.us-east-2.amazonaws.com --delete
+          aws s3 sync . s3://hackathon-bucket-cariel-7-30-2025 --delete
 
